@@ -19,7 +19,7 @@
 - business email : lelgrahy@smart.sa
 - personal email : grahyy1@gmail.com
 - facebook : https://www.facebook.com/profile.php?id=100044662612361
-- linkedIn : https://www.linkedin.com/in/loqman-ali-057484139/
+- linkedIn : https://www.linkedin.com/in/loqman-ali-057484139/ -->
 <hr>
 
 <h2> Samples from my projects </h2>
