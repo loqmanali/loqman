@@ -27,7 +27,7 @@
 ### FitLife
 An application that provides health and sports services nutritious with a database designed by specialists in the field of nutrition and sports and designed to follow the performance of athletes and provide resistance exercise schedules according to preference using artificial intelligence and machine learning. 
 Under Development
-<p><a href="" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://testflight.apple.com/join/roY5k8J4" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/cz/app/fitlife-%D9%81%D8%AA-%D9%84%D8%A7%D9%8A%D9%81/id6450390199" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
