@@ -23,16 +23,20 @@
 <hr>
 
 <h2> Samples from my projects </h2>
-
-### FitLife
-An application that provides health and sports services nutritious with a database designed by specialists in the field of nutrition and sports and designed to follow the performance of athletes and provide resistance exercise schedules according to preference using artificial intelligence and machine learning. 
-Under Development
-<p><a href="" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/cz/app/fitlife-%D9%81%D8%AA-%D9%84%D8%A7%D9%8A%D9%81/id6450390199" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 <hr>
-
 ### قناة اي نيوز الفضائية(2024)
  قناة أي نيوز ، هي قناة تلفزيونية عراقية بدأت بثها لأول مرة من بغداد عام ... ويقع مقرها في عاصمة العراق بغداد، وهي احد القنوات الإخبارية المهمة في الشارع العراقي والعربي . تمتاز بتغطياتها الاخبارية عبر نشراتها المتعددة على مدار الساعة لتنقل الأحداث أول باول انطلاقا من شعارها "نعلم.. لتعلم" . تبث القناة برامج حوارية سياسية واجتماعية ورياضية وثقافية فيها بصمة الصراحة والجرأة والمصداقية بعد استقطاب شخصيات إعلامية عراقية وعربية بارزة في الوسط لتقديم تلك البرامج .
 <p><a href="https://play.google.com/store/apps/details?id=com.abualgaitinews.app&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%8A-%D9%86%D9%8A%D9%88%D8%B2-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9/id1532198502" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<hr>
+
+### Cropsa(2023) Cropsa is the link between companies, traders, and farmers in the agricultural and veterinary sectors to facilitate the process of buying and selling production inputs in different payment methods with many services that help you know the market price in addition to agricultural clinics that provide you with agricultural and veterinary solutions and consultations to overcome agricultural diseases and pests.
+<p><a href="https://play.google.com/store/apps/details?id=com.cropsa.cropsaapp" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
+<hr>
+
+### FitLife(2022)
+An application that provides health and sports services nutritious with a database designed by specialists in the field of nutrition and sports and designed to follow the performance of athletes and provide resistance exercise schedules according to preference using artificial intelligence and machine learning. 
+Under Development
+<p><a href="https://apps.apple.com/cz/app/fitlife-%D9%81%D8%AA-%D9%84%D8%A7%D9%8A%D9%81/id6450390199" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
