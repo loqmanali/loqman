@@ -68,7 +68,7 @@ Your Destination For Discounted Luxury Brands" Buy your top brands at discounted
 ### السقيط للصرافة (2021)
 
  تطبيق السقيط للحوالات لأسعار الصرف نقدم سعر الصرف لليرة السورية والتركية والدولار واليورو مع امكانية حساب سعر الصرف لأكثر من عملة.
-<p><a href="https://play.google.com/store/apps/details?id=com.qualitey.sakeet" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/السقيط-للصرافة-أسعار-الصرف/id6502718901?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.qualitey.sakeet" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/السقيط-للصرافة-أسعار-الصرف/id6502718901?platform=iphone" target=""><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 <hr>
 
 Here are some ideas to get you started:
