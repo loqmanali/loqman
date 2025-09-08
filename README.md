@@ -15,7 +15,7 @@ delivering high-quality applications published on Google Play Store and Apple St
 
 <div align="center">
   
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](http://Wa.me/60176894518)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](http://Wa.me/+6281295486104)
 [![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100044662612361)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loqman-ali-057484139/)
 
